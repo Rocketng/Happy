@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Test2 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\24223\AppData\Local\Temp\RSP5F2F.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Test2.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Test\Test2\Test2View.cpp"
+]
+Creating command line "cl.exe @C:\Users\24223\AppData\Local\Temp\RSP5F2F.tmp" 
+<h3>Output Window</h3>
+Compiling...
+Test2View.cpp
+D:\Test\Test2\Test2View.cpp(125) : error C2440: 'type cast' : cannot convert from 'double' to 'char *'
+        There is no context in which this conversion is possible
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+Test2View.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

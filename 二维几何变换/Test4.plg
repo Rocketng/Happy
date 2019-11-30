@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Test4 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\24223\AppData\Local\Temp\RSPEB7.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Test4.pdb" /debug /machine:I386 /out:"Debug/Test4.exe" /pdbtype:sept 
+.\Debug\Line.obj
+.\Debug\MainFrm.obj
+.\Debug\P2.obj
+.\Debug\RGB.obj
+.\Debug\StdAfx.obj
+.\Debug\Test4.obj
+.\Debug\Test4Doc.obj
+.\Debug\Test4View.obj
+.\Debug\Transform.obj
+.\Debug\Test4.res
+]
+Creating command line "link.exe @C:\Users\24223\AppData\Local\Temp\RSPEB7.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+Test4.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
